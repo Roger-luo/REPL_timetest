@@ -7,7 +7,10 @@
 
 # REPL run-up time test
 
-test your REPL's run-up time by bash.
+test your REPL's run-up time:
+- bash `bash juliacount.sh`
+- python `python timecount.py`
+
 
 
 # Mine
