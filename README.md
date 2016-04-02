@@ -2,7 +2,7 @@
 
 - bash `bash juliacount.sh`
 - python `python timecount.py`
-
+- powershell `powershell .\timecount.ps1`
 我的机器上`bash`是0.1915s (0.5-dev, Ubuntu 15.04)
 
 # REPL run-up time test
@@ -10,6 +10,7 @@
 test your REPL's run-up time:
 - bash `bash juliacount.sh`
 - python `python timecount.py`
+- powershell `powershell .\timecount.ps1`
 
 
 
