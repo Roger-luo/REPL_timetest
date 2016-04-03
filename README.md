@@ -3,6 +3,8 @@
 - bash `bash juliacount.sh`
 - python `python timecount.py`
 - powershell `powershell .\timecount.ps1`
+- julia `julia timecount.jl` 或者在julia REPL中执行这一行代码```@time run(`julia -e 'exit();'`)```
+
 我的机器上`bash`是0.1915s (0.5-dev, Ubuntu 15.04)
 
 # REPL run-up time test
